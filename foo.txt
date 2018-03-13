@@ -1,1 +1,6 @@
 This is just a test.  I want to see if I can add a file to the GitHub project.
+
+Here is a link about forking: https://help.github.com/articles/fork-a-repo/
+
+This is what you're going to have to do to make the project for JumpCloud.
+
